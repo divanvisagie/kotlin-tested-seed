@@ -1,0 +1,4 @@
+replace:
+  strings:
+    - match: package com.divanvisagie.example
+      description: The package name 
