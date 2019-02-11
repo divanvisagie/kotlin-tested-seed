@@ -1,4 +1,4 @@
 replace:
   strings:
-    - match: package com.divanvisagie.example
+    - match: com.divanvisagie.example
       description: The package name 
