@@ -1,4 +1,7 @@
 replace:
   strings:
     - match: com.divanvisagie.example
-      description: The package name 
+      description: The package name
+    - match: "Hello World"
+      description: The string that is printed by the application
+      
